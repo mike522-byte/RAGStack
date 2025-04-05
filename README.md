@@ -50,7 +50,7 @@ streamlit run app/main.py
 
 ## Features
 
-- Multiple Documents upload and processing
+- Multiple Documents upload and management
 - Semantic search and retrieval
 - Local LLM inference
 - 4-bit quantization support
